@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff Name: ASDASDASDADA
+StaffID: 236790
+Staff Date of Birth: 27/05/1988 12:00:00 AM
+Staff email: Sonny04@officer.company.ac.nz
+Staff Annual Salary: 8200

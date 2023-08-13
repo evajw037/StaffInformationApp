@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\bin\Debug\StaffMembers.BenchmarkApp.exe.config
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\bin\Debug\StaffMembers.BenchmarkApp.exe
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\bin\Debug\StaffMembers.BenchmarkApp.pdb
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.Form1.resources
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.exe
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\obj\Debug\StaffMembers.BenchmarkApp.pdb
+C:\Users\Administrator\source\repos\StaffMembers.BenchmarkApp\StaffMembers.BenchmarkApp\bin\Debug\StaffInformations.txt

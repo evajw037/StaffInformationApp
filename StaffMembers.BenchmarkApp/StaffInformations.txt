@@ -1,0 +1,7 @@
+﻿Tom,234956, 02/06/1994,Tom01@officer.company.ac.nz,5200
+Lisa,235783,05/02/1987,lisa02@officer.company.ac.nz,6800
+Jane,231930,07/03/1996,Jane03@officer.company.ac.nz,7300
+Sonny,236790,27/05/1988,Sonny04@officer.company.ac.nz,8200
+Jo,237310,12/06/1999,Jo05@officer.company.ac.nz,3700
+Denny,232030,08/03/1997,Denny06@officer.company.ac.nz,4500
+Anna,238910,03/03/1992,Anna07@officer.company.ac.nz,6100

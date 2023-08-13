@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff Name: Anna123
+StaffID: 238910
+Staff Date of Birth: 3/03/1992 12:00:00 AM
+Staff email: Anna07@officer.company.ac.nz
+Staff Annual Salary: 6100
